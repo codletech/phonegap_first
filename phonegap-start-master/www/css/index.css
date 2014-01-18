@@ -66,6 +66,7 @@ body {
         padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
         margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
                                       /* offset horizontal: half of image width and text area width */
+        margin-top: 15px;
     }
 }
 
@@ -119,8 +120,22 @@ h1 {
 
 
 
-
-
+.dvir_button {
+background: #338D7B;
+font-size: 18px;
+font-weight: bold;
+text-align: center;
+display: inline-block;
+margin-left: 45%;
+color: #ffffff;
+text-shadow: 0px 1px 1px #444444;
+padding: 7px 14px;
+border-radius: 5px;
+margin-top: 10px;
+}
+.dvir_button:active {
+    background: #195E50;
+}
 
 
 .spinner {
