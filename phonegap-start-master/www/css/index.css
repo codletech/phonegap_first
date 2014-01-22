@@ -133,7 +133,7 @@ padding: 7px 14px;
 border-radius: 5px;
 margin-top: 10px;
 }
-.dvir_button:hover {
+.dvir_button:active {
     background: #195E50;
 }
 
