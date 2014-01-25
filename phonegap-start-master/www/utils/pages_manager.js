@@ -38,6 +38,10 @@ cPages = {
      */
     get: function(pageName) {
         return this.pages[pageName];
+    },
+
+    moveToPage: function(toPage,direction) {
+
     }
 
 

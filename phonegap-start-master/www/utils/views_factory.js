@@ -9,7 +9,7 @@ viewsFactory = {
     /**
      *
      */
-    title: doT.template("<h1 style='background-color:{{=it.backgroundColor || \"#444444\"}}'>{{=it.title}}</h1>")
+    title: doT.template("<h1 class='{{=it.cssClasses}}'>{{=it.title}}</h1>")
 
 
 }
