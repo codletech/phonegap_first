@@ -8,7 +8,7 @@ app = {
         FastClick.attach(document.body);
         cPages.addPage("main",mainPageContent);
         cPages.addPage("articles",articlesPageContent);
-        this.container.innerHTML = cPages.get("main").content;
+        cPages.moveToPage(this.container,"main","right");
     }
 
 

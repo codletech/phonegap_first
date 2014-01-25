@@ -5,6 +5,8 @@ var cPages;
 cPages = {
     /* the pages */
     pages: {},
+    historyStack: new Array(),
+    moveBackDirection: "left",
 
     /**
      * Add new page to the page manager.
@@ -40,8 +42,14 @@ cPages = {
         return this.pages[pageName];
     },
 
-    moveToPage: function(toPage,direction) {
+    moveToPage: function(container,toPage,direction) {
+        this.historyStack.push(toPage);
+        container.innerHTML = this.pages[toPage].content;
+    },
 
+    moveBack: function(container) {
+        var page = this.historyStack.pop();
+        this.moveToPage(container,page,this.moveBackDirection);
     }
 
 
