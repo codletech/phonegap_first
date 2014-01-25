@@ -26,6 +26,8 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <script src="js/fastclick.js"></script>
         <script src="js/index.js"></script>
+        <script type="text/javascript" src="js/doT.js"></script> 
+        <script  type="text/javascript" src="js/header.js"></script> 
         <title>Hello World</title>
     </head>
     <body ontouchstart="">
@@ -38,15 +40,27 @@
             המון טקטס חשוב,המון טקטס חשוב,המון טקטס חשוב,המון טקטס חשוב
         </div>
         <div style="text-align: center;display: inline-block;width: 100%;">
-        <div class="dvir_button" onclick="window.location='page2.html';">
-            עבור לגלריה
+            <div class="dvir_button" onclick="window.location='page2.html';">
+                עבור לגלריה
+            </div>
         </div>
-        </div>
+        
+        <div id="target">
 
+        </div>
+        
+    
     <script>
         (function() {
            FastClick.attach(document.body);
         })();
+        
+        alert(headertmpl);
+        var tmpl = doT.template(headertmpl);
+        var data = { desc: 'desc...',title: 'Yeah!' }; 
+        var text = tmpl(data);
+        document.getElementById("target").innerHTML = text;
+        
     </script>
     </body>
 
