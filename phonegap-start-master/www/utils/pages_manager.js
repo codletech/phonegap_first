@@ -6,6 +6,7 @@ cPages = {
     /* the pages */
     pages: {},
     historyStack: new Array(),
+    directions: {right:"right",left:"left"},
     moveBackDirection: "left",
 
     /**
@@ -43,12 +44,20 @@ cPages = {
     },
 
     moveToPage: function(container,toPage,direction) {
-        this.historyStack.push(toPage);
-        container.innerHTML = this.pages[toPage].content;
+        if (toPage in this.pages) {
+            this.historyStack.push(toPage);
+            container.innerHTML = this.pages[toPage].content;
+            //document.getElementById('myDiv').clientHeight;
+        }
+        else {
+            console.error("moveToPage Error: page "+toPage+" doesn't exist.");
+        }
     },
 
     moveBack: function(container) {
-        var page = this.historyStack.pop();
+        //Remove last page from the history.
+        this.historyStack.pop();
+        var page = this.historyStack[this.historyStack.length-1];
         this.moveToPage(container,page,this.moveBackDirection);
     }
 

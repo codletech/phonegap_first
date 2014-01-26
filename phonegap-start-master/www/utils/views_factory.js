@@ -9,7 +9,14 @@ viewsFactory = {
     /**
      *
      */
-    title: doT.template("<h1 class='{{=it.cssClasses}}'>{{=it.title}}</h1>")
+    title: doT.template("<h1 id='{{=it.id || \"\" }}' class='{{=it.cssClasses || \"\" }}' style='{{=it.inlineStyle || \"\" }}'>{{=it.title || \"\" }}</h1>"),
+
+    button: doT.template("<div id='{{=it.id || \"\" }}' class='{{=it.cssClasses || \"\" }}' style='{{=it.inlineStyle || \"\" }}' onclick='({{=it.onClick || \"function(){}\" }})();'>{{=it.text || \"\" }}</div>"),
+
+    centerdDiv: doT.template("<div style=\"text-align: center;\">{{=it.content || \"\" }}</div> ")
+
+
+
 
 
 }
