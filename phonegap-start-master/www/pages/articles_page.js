@@ -8,7 +8,7 @@ articlesPageContentArr.push(
         title: "כתבות",
         cssClasses: "title1"
     }),
-    viewsFactory.centerdDiv( {
+    viewsFactory.centeredDiv( {
         content: viewsFactory.button({
             id: "articles_button",
             text: "חזור",

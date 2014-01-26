@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3f4388d-137f-4877-848b-005895222ac6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="DELETED" beforePath="D:\Dvir Cohen\Programming\WebstormProjects\phonegap_first\phonegap-start-master\www\page2.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-start-master/www/pages/articles_page.js" afterPath="$PROJECT_DIR$/phonegap-start-master/www/pages/articles_page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-start-master/www/config.xml" afterPath="$PROJECT_DIR$/phonegap-start-master/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-start-master/www/pages/main_page.js" afterPath="$PROJECT_DIR$/phonegap-start-master/www/pages/main_page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/netivoti.iml" afterPath="$PROJECT_DIR$/.idea/netivoti.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-start-master/www/utils/views_factory.js" afterPath="$PROJECT_DIR$/phonegap-start-master/www/utils/views_factory.js" />
+    </list>
+    <ignored path="phonegap_first.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phonegap_first" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="22" selection-start="698" selection-end="710" vertical-scroll-proportion="-8.2" vertical-offset="27" max-vertical-offset="714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buttons.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/css/buttons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="378">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages_manager.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/pages_manager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="1323" max-vertical-offset="1512">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_page.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/pages/main_page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="3" selection-start="0" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articles_page.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/pages/articles_page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="48" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="672">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="41" selection-start="1797" selection-end="1797" vertical-scroll-proportion="0.31871837" vertical-offset="483" max-vertical-offset="2436">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views_factory.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/views_factory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="588">
+              <folding>
+                <marker date="1390767622615" expanded="true" signature="195:222" placeholder="..." />
+                <marker date="1390767622615" expanded="true" signature="195:201" placeholder="..." />
+                <marker date="1390767622615" expanded="true" signature="231:259" placeholder="..." />
+                <marker date="1390767622615" expanded="true" signature="349:384" placeholder="..." />
+                <marker date="1390767622615" expanded="true" signature="392:420" placeholder="..." />
+                <marker date="1390767622615" expanded="true" signature="550:569" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/js/page_manager.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/js/pages_manager.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/js/views.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/js/doT.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/js/views_factory.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/js/main.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/css/index.css" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/pages/categories_page.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/spec.html" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/css/titles.css" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/utils/app.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/index.html" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/css/buttons.css" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/pages/main_page.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/pages/articles_page.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/utils/pages_manager.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/utils/views_factory.js" />
+        <option value="$PROJECT_DIR$/phonegap-start-master/www/config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-start-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-start-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-start-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dvir Cohen\Programming\WebstormProjects\phonegap_first\phonegap-start-master\www\utils" />
+      <recent name="D:\Dvir Cohen\Programming\WebstormProjects\phonegap_first\phonegap-start-master\www\pages" />
+      <recent name="D:\Dvir Cohen\Programming\WebstormProjects\phonegap_first\phonegap-start-master\www\View" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/phonegap_first/phonegap-start-master/www/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f4388d-137f-4877-848b-005895222ac6" name="Default" comment="" />
+      <created>1390653970662</created>
+      <updated>1390653970662</updated>
+    </task>
+    <task id="LOCAL-00001" summary="great">
+      <created>1390659948829</created>
+      <updated>1390659948829</updated>
+    </task>
+    <task id="LOCAL-00002" summary="great&#10;organized">
+      <created>1390682973945</created>
+      <updated>1390682973945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="page_manager extension.">
+      <created>1390684305893</created>
+      <updated>1390684305893</updated>
+    </task>
+    <task id="LOCAL-00004" summary="spec folder removed.">
+      <created>1390684397255</created>
+      <updated>1390684397255</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pager+1">
+      <created>1390766410989</created>
+      <updated>1390766410989</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pager+1&#10;">
+      <created>1390766634559</created>
+      <updated>1390766634559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pager+1&#10;">
+      <created>1390766712761</created>
+      <updated>1390766712761</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3987441" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="great" />
+    <MESSAGE value="great&#10;organized" />
+    <MESSAGE value="page_manager extension." />
+    <MESSAGE value="spec folder removed." />
+    <MESSAGE value="pager+1" />
+    <MESSAGE value="pager+1&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="pager+1&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="698" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/css/buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/pages_manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="1323" max-vertical-offset="1512">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/pages/main_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="3" selection-start="0" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/pages/articles_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="48" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="672">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="64" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="483" max-vertical-offset="2436">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/views_factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="588">
+          <folding>
+            <marker date="1390767622615" expanded="true" signature="195:222" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="195:201" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="231:259" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="349:384" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="392:420" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="550:569" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/js/fastclick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.7807755" vertical-offset="2835" max-vertical-offset="15435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.22463769" vertical-offset="506" max-vertical-offset="1533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/css/titles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="161" selection-end="161" vertical-scroll-proportion="0.27722773" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="18" selection-start="4883" selection-end="4883" vertical-scroll-proportion="0.33333334" vertical-offset="3481" max-vertical-offset="7245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="698" selection-end="710" vertical-scroll-proportion="-8.2" vertical-offset="27" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="231" selection-end="242" vertical-scroll-proportion="0.48514852" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/css/buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/js/doT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="9" selection-start="4846" selection-end="4846" vertical-scroll-proportion="0.539629" vertical-offset="2389" max-vertical-offset="2982" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/pages_manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/utils/views_factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+          <folding>
+            <marker date="1390767622615" expanded="true" signature="195:222" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="195:201" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="231:259" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="349:384" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="392:420" placeholder="..." />
+            <marker date="1390767622615" expanded="true" signature="550:569" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/pages/main_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="3" selection-start="0" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/pages/articles_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="48" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="672">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="266" selection-end="266" vertical-scroll-proportion="0.4329897" vertical-offset="0" max-vertical-offset="582">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-start-master/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="41" selection-start="1797" selection-end="1797" vertical-scroll-proportion="0.31871837" vertical-offset="483" max-vertical-offset="2436">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

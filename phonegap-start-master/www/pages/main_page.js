@@ -9,7 +9,7 @@ var mainPageContentArr = [];
         title: "נתיבותי",
         cssClasses: "title1"
     }),
-    viewsFactory.centerdDiv( {
+    viewsFactory.centeredDiv( {
         content: viewsFactory.button({
             id: "main_button",
             text: "קטגוריות",

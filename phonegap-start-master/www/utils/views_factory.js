@@ -13,7 +13,7 @@ viewsFactory = {
 
     button: doT.template("<div id='{{=it.id || \"\" }}' class='{{=it.cssClasses || \"\" }}' style='{{=it.inlineStyle || \"\" }}' onclick='({{=it.onClick || \"function(){}\" }})();'>{{=it.text || \"\" }}</div>"),
 
-    centerdDiv: doT.template("<div style=\"text-align: center;\">{{=it.content || \"\" }}</div> ")
+    centeredDiv: doT.template("<div style=\"text-align: center;\">{{=it.content || \"\" }}</div> ")
 
 
 
