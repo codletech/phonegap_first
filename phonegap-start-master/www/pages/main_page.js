@@ -16,7 +16,7 @@ var mainPageContentArr = [];
             cssClasses: "button1",
             inlineStyle:"margin-top:5px;",
             onClick: function() {
-                cPages.moveToPage(app.container,"articles");
+                cPages.moveToPage(app.container,"articles",cPages.directions.left);
             }
         })
     } )
