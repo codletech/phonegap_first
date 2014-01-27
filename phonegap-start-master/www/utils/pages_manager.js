@@ -5,6 +5,7 @@ var cPages;
 cPages = {
     /* the pages */
     pages: {},
+    firstLoad: true,
     historyStack: new Array(),
     directions: {right:"right",left:"left"},
     directions_css_classes: {
@@ -27,7 +28,7 @@ cPages = {
     addPage: function(pageName,pageContent) {
         //Create new page.
         this.pages[pageName] = {
-            content:        "<div id='page_"+pageName+"' style='width:100%;display:inline-block;'>"+pageContent+'</div>',
+            content:        "<div id='page_"+pageName+"' style='width:100%;display:inline-block;translate3d:(0,0,0);'>"+pageContent+'</div>',
             vars:  {}
         }
     },
@@ -63,6 +64,13 @@ cPages = {
         if (toPage in this.pages) {
             //Push to stack history.
             this.historyStack.push(toPage);
+
+            if (this.firstLoad) {
+                container.innerHTML = this.pages[toPage].content;
+                this.firstLoad = false;
+                return;
+            }
+
             // Default direction
             if (!direction in this.directions || direction== undefined) {
                 direction = this.directions.right;
