@@ -8,6 +8,6 @@
     text-shadow: 1px 1px 1px #727272;
     cursor: pointer;
 }
-.button1:active {
+.button1:active,.button1:hover {
     background: #4D7A57;
 }

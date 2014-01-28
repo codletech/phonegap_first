@@ -5,9 +5,20 @@ var cPages;
 cPages = {
     /* the pages */
     pages: {},
+    firstLoad: true,
     historyStack: new Array(),
     directions: {right:"right",left:"left"},
-    moveBackDirection: "left",
+    directions_css_classes: {
+        right:{
+            container_class:"slide_right",
+            page_before_class:"page_before_slide_right"
+        },
+        left:{
+            container_class:"slide_left",
+            page_before_class:"page_before_slide_left"
+        }
+    },
+    moveBackDirection: "right",
 
     /**
      * Add new page to the page manager.
@@ -17,7 +28,7 @@ cPages = {
     addPage: function(pageName,pageContent) {
         //Create new page.
         this.pages[pageName] = {
-            content:        pageContent,
+            content:        "<div id='page_"+pageName+"' style='width:100%;display:inline-block;translate3d:(0,0,0);'>"+pageContent+'</div>',
             vars:  {}
         }
     },
@@ -43,11 +54,47 @@ cPages = {
         return this.pages[pageName];
     },
 
+    /**
+     * move to page.
+     * @param container
+     * @param toPage
+     * @param direction
+     */
     moveToPage: function(container,toPage,direction) {
         if (toPage in this.pages) {
+            //Push to stack history.
             this.historyStack.push(toPage);
-            container.innerHTML = this.pages[toPage].content;
-            //document.getElementById('myDiv').clientHeight;
+
+            if (this.firstLoad) {
+                container.innerHTML = this.pages[toPage].content;
+                this.firstLoad = false;
+                return;
+            }
+
+            // Default direction
+            if (!direction in this.directions || direction== undefined) {
+                direction = this.directions.right;
+            }
+
+            container.style.position = "relative";
+            //Add to container.
+            container.innerHTML += this.pages[toPage].content;
+            var toPageDiv = document.getElementById('page_'+toPage);
+            //Move to the side.
+            toPageDiv.className = toPageDiv.className + " "+cPages.directions_css_classes[direction].page_before_class;
+            toPageDiv.clientHeight; //Force layout refresh. IMPORTANT!!!
+
+            //Unbind all transition callbacks.
+            $("#"+container.id).unbind("transitionend webkitTransitionEnd oTransitionEnd MSTransitionEnd");
+            //Bind transition end callback.
+            $("#"+container.id).bind("transitionend webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
+                toPageDiv.className =  toPageDiv.className.replace(cPages.directions_css_classes[direction].page_before_class,"page_in_origin");
+                container.className =  container.className.replace(cPages.directions_css_classes[direction].container_class,"");
+                container.innerHTML = cPages.pages[toPage].content;
+            });
+            //Start Transition.
+            container.className = container.className + " "+this.directions_css_classes[direction].container_class;
+
         }
         else {
             console.error("moveToPage Error: page "+toPage+" doesn't exist.");
@@ -57,7 +104,7 @@ cPages = {
     moveBack: function(container) {
         //Remove last page from the history.
         this.historyStack.pop();
-        var page = this.historyStack[this.historyStack.length-1];
+        var page = this.historyStack.pop();
         this.moveToPage(container,page,this.moveBackDirection);
     }
 
